@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cấu trúc luận văn
-summary: Tàu liệu khoa học, đặc biệt là luận văn (thesis), bài báo (paper), sách (book),... cần tuân theo một số quy ước nhất định. 
+title: Những phần cơ bản trong một luận văn
+summary: Tài liệu khoa học, đặc biệt là luận văn (thesis), bài báo (paper), sách (book),... cần tuân theo một số quy ước nhất định. 
 featured-img: emile-perron-190221
 tags: 
 categories: [LaTeX]
