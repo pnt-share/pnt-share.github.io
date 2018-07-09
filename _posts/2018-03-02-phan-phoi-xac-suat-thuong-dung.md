@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cấu trúc cơ bản của luận văn
+title: Cấu trúc luận văn
 summary: Tàu liệu khoa học, đặc biệt là luận văn (thesis), bài báo (paper), sách (book),... cần tuân theo một số quy ước nhất định. 
 featured-img: emile-perron-190221
 tags: 
