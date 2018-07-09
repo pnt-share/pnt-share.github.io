@@ -41,3 +41,5 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+# Google Analytics
+google_analytics: UA-121958352-1
