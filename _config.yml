@@ -5,14 +5,13 @@ description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://pnt-share.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username:  # replace with your_twitter_username or comment to remove link from footer
-#github_username:   # replace with your_github_username or comment to remove link from footer
-#instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+twitter_username: # replace with your_twitter_username or comment to remove link from footer
+github_username:  # replace with your_github_username or comment to remove link from footer
+instagram_username: pham.nhat.thien # replace with your_instagram_username or comment to remove link from footer
 social:
   name: Nhat Thien
   links:
     - https://www.facebook.com/nhatthienfam
-
 #disqus:
 #  shortname: janczizikow # to enable comments replace with your_disqus_shortname
 

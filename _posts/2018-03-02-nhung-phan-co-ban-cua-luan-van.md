@@ -8,8 +8,8 @@ tags:
 categories: [LaTeX]
 
 ---
-<a name="bia1"/>
 # Những phần cơ bản trong một luận văn
+<a name="bia1"/>
 
 <a name="tomtat1"/><a name="loicamon1"/><a name="mucluc1"/>
 - **Trang bìa:** Nên có bố cục cân đối và đơn giản. Nội dung gồm những thông tin sau
