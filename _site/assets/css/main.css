@@ -342,7 +342,7 @@ pre>code{
 }
 @media (min-width: 75em){
     .container{
-        max-width:1170px;
+        /*max-width:1170px;*/
         margin:0 auto
     }
 }
