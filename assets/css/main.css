@@ -715,7 +715,7 @@ button:disabled:hover,button:disabled :focus{
     display:block
 }
 .post-card__inner{
-    padding:1.875rem 1.25rem 0.625rem;
+    padding:1rem 1.25rem 0.625rem;
     color:#838c8d
 }
 .post-card__header{
@@ -1192,6 +1192,8 @@ table th,table td{
     z-index:1;
     background-color: rgb(255, 255, 255, 0.4);
     padding: 2em 0 1em 0;
+}
+.site_post .hero__wrap{
     border: solid 6px rgb(255,255,255,0.5);
 }
 @media (min-width: 48em){
@@ -1216,6 +1218,13 @@ span.post-categories {
         font-size:2.625em;
         line-height:3.125rem
     }
+}
+.site_page .hero__title{
+    color:#fff;
+}
+.site_page .hero__wrap{
+    background: none;
+    border:none;
 }
 .page-content{
     max-width:52.5rem;
