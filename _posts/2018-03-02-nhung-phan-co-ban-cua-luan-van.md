@@ -8,8 +8,10 @@ tags:
 categories: [LaTeX]
 
 ---
+<a name="bia1"/>
 # Những phần cơ bản trong một luận văn
 
+<a name="tomtat1"/><a name="loicamon1"/><a name="mucluc1"/>
 - **Trang bìa:** Nên có bố cục cân đối và đơn giản. Nội dung gồm những thông tin sau
 	- Tên trường/cơ quan: có thêm logo càng đẹp
 	- Tên đề tài: đối với những tên dài thì nên ngắt dòng hợp lí
@@ -21,12 +23,16 @@ categories: [LaTeX]
 	- Nơi thực hiện, tháng, năm
 	- [Ví dụ](#bia)
 
+
 - **Abstract:** Tóm lược nội dung chính nhất. Cuối trang Abstract thường có phần **Keywords** ghi những từ khóa liên quan đến đề tài. Abstract không nên dài quá 1 trang. [Ví dụ](#tomtat)
+
 
 - **Acknowledgements:** Tiếng Việt là *Lời cảm ơn*. Phần này cũng không nên dài quá 1 trang. [Ví dụ](#loicamon)
 
+<a name="noidung1"/>
 - **Table of contents:** Phần mục lục. Trong LaTeX chỉ cần dùng một câu lệnh đơn giản là `\tableofcontents`. Có nên liệt kê phần "Mục lục" ở trong mục lục không? Cái này tùy quan điểm mỗi người. Có người nói nó là một phần của tài liệu, cho nên nó phải được liệt kê trong Mục lục. Ngưòi khác lại cho rằng Mục lục là để tra cứu nội dung, nếu bạn đang dùng tới Mục lục thì tức là bạn đã biết Mục lục nằm chỗ nào rồi, cho nên không cần liệt kê nó vô. Một số phần như **Abstract**, **Acknowledgements** có thể được đưa vào Mục lục hoặc không. Theo xu hướng hiện đại thì Mục lục nằm ở đầu tài liệu, thay vì ở cuối như thường thấy trong các sách cũ [Ví dụ](#mucluc)
 
+<a name="thamkhao1"/><a name="trichdan1"/><a name="hinh1"/><a name="chimuc1"/><a name="phuluc1"/>
 - **Nội dung chính:** Được phân cấp như sau
 	- Part I: thông thường luận văn chỉ có Chapter mà không có Part. 
 		- Chapter 1: Có người thích đánh số bằng chữ số La Mã 
@@ -34,7 +40,8 @@ categories: [LaTeX]
 				- Subsection 1.1.1
 				- Subsection 1.1.2
 				- ...
-	- Appendices: Phụ lục nếu có. Về cơ bản nó được trình bày như Chapter hoặc Section nhưng thường được đánh số theo A, B, C,... [Ví dụ](#phuluc)
+	- Appendices: Phụ lục nếu có. Về cơ bản nó được trình bày như Chapter hoặc Section nhưng thường được đánh số theo A, B, C,... [Ví dụ](#phuluc) 
+
 
 - **Bibliography:** Tài liệu tham khảo. Liệt kê những tài liệu tham khảo chính của luận văn/sách [Ví dụ](#thamkhao)
 	
@@ -45,9 +52,11 @@ categories: [LaTeX]
 
 - **Notation:** Có thể đưa lên trước **Nội dung chính**. Liệt kê tất cả những ký hiệu toán dùng trong tài liệu và ý nghĩa của nó.
 
+
 - **List of figures:** Có thể đưa lên trước **Nội dung chính**. Danh sách hình ảnh, biểu đồ,... trong luận văn. [Ví dụ](#hinh)
 
 - **List of tables:** Có thể đưa lên trước **Nội dung chính**. Danh sách bảng trong luận văn. [Ví dụ](#hinh)
+
 
 - **Index:** Chỉ mục. Thường dùng cho sách. Liệt kê tất cả các chỉ mục trong tài liệu, rất hữu ích để tra cứu những khái niệm, định nghĩa, công thức. [Ví dụ](#chimuc)
 
@@ -82,6 +91,8 @@ Sau đây là một số ví dụ cho từng phần của luận văn. Những v
 ![Mau bia luan van](/assets/img/luanvan/cover6.png)
 ![Mau bia luan van](/assets/img/luanvan/cover7.png)
 
+[Trở lại](#bia1)
+
 ---
 <a name="tomtat"/>
 ## Abstract
@@ -91,6 +102,8 @@ Sau đây là một số ví dụ cho từng phần của luận văn. Những v
 ---
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/abstract2.png)
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/abstract4.png)
+
+[Trở lại](#tomtat1)
 
 ---
 <a name="mucluc"/>
@@ -102,6 +115,8 @@ Sau đây là một số ví dụ cho từng phần của luận văn. Những v
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/mucluc3.png)
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/mucluc4.png)
 
+[Trở lại](#mucluc1)
+
 ---
 <a name="loicamon"/>
 ## Lời cảm ơn
@@ -111,6 +126,8 @@ Sau đây là một số ví dụ cho từng phần của luận văn. Những v
 ---
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/loicamon3.png)
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/loicamon4.png)
+
+[Trở lại](#loicamon1)
 
 ---
 <a name="noidung"/>
@@ -122,11 +139,15 @@ Sau đây là một số ví dụ cho từng phần của luận văn. Những v
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/chuong3.png)
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/chuong5.png)
 
+[Trở lại](#noidung1)
+
 ---
 <a name="phuluc"/>
 ## Phụ lục
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/phuluc1.png)
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/phuluc2.png)
+
+[Trở lại](#phuluc1)
 
 ---
 <a name="thamkhao"/>
@@ -134,11 +155,15 @@ Sau đây là một số ví dụ cho từng phần của luận văn. Những v
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/thamkhao2.png)
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/thamkhao3.png)
 
+[Trở lại](#thamkhao1)
+
 ---
 <a name="trichdan"/>
 ## Tài liệu trích dẫn
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/trichdan1.png)
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/trichdan2.png)
+
+[Trở lại](#trichdan1)
 
 ---
 <a name="hinh"/>
@@ -146,10 +171,13 @@ Sau đây là một số ví dụ cho từng phần của luận văn. Những v
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/hinh1.png)
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/hinh2.png)
 
+[Trở lại](#hinh1)
 
 ---
 <a name="chimuc"/>
 ## Index
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/chimuc1.png)
 ![Nhung phan co ban cua luan van](/assets/img/luanvan/chimuc2.png)
+
+[Trở lại](#chimuc1)
 
