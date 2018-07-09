@@ -24,7 +24,7 @@ categories: [LaTeX]
 
 - **Acknowledgements:** Tiếng Việt là *Lời cảm ơn*. Phần này cũng không nên dài quá 1 trang. [Ví dụ](#loicamon)
 
-- **Table of contents:** Phần mục lục. Trong LaTeX chỉ cần dùng một câu lệnh đơn giản là `\tableofcontents`. Có nên liệt kê phần "Mục lục" ở trong mục lục không? Cái này tùy quan điểm mỗi người. Có người nói nó là một phần của tài liệu, cho nên nó phải được liệt kê trong Mục lục. Ngưòi khác lại cho rằng Mục lục là để tra cứu nội dung, nếu bạn đang dùng tới Mục lục thì tức là bạn đã biết Mục lục nằm chỗ nào rồi, cho nên không cần liệt kê nó vô. [Ví dụ](#mucluc)
+- **Table of contents:** Phần mục lục. Trong LaTeX chỉ cần dùng một câu lệnh đơn giản là `\tableofcontents`. Có nên liệt kê phần "Mục lục" ở trong mục lục không? Cái này tùy quan điểm mỗi người. Có người nói nó là một phần của tài liệu, cho nên nó phải được liệt kê trong Mục lục. Ngưòi khác lại cho rằng Mục lục là để tra cứu nội dung, nếu bạn đang dùng tới Mục lục thì tức là bạn đã biết Mục lục nằm chỗ nào rồi, cho nên không cần liệt kê nó vô. Một số phần như **Abstract**, **Acknowledgements** có thể được đưa vào Mục lục hoặc không. Theo xu hướng hiện đại thì Mục lục nằm ở đầu tài liệu, thay vì ở cuối như thường thấy trong các sách cũ [Ví dụ](#mucluc)
 
 - **Nội dung chính:** Được phân cấp như sau
 	- Part I: thông thường luận văn chỉ có Chapter mà không có Part. 
@@ -39,7 +39,7 @@ categories: [LaTeX]
 	
 
 - **References:** Tài liệu trích dẫn. Có người xem phần này và phần **Bibliogrphy** là một. Tuy nhiên phần này nên được hiểu là nơi liệt kê các tài liệu mà nội dung của nó đưọc **nhắc đến** trong luận văn. Tài liệu trích dẫn phải đưọc liệt kê theo quy ước. Thông thường sẽ có thứ tự như sau
-	- Sách: Tên tác giả, tên sách, trang trích dẫn, nhà xuất bản, năm xuất bản. [Ví dụ](#trichdan)
+	- Sách: Tên tác giả,   tên sách, trang trích dẫn, nhà xuất bản, năm xuất bản. [Ví dụ](#trichdan)
 	- Bài báo: Tên tác giả, tên bài báo, tên tạp chí, quyển, trang trích dẫn, nhà xuất bản, năm xuất bản. [Ví dụ](#trichdan)
 
 - **Notation:** Có thể đưa lên trước **Nội dung chính**. Liệt kê tất cả những ký hiệu toán dùng trong tài liệu và ý nghĩa của nó.
@@ -49,6 +49,20 @@ categories: [LaTeX]
 - **List of tables:** Có thể đưa lên trước **Nội dung chính**. Danh sách bảng trong luận văn. [Ví dụ](#hinh)
 
 - **Index:** Chỉ mục. Thường dùng cho sách. Liệt kê tất cả các chỉ mục trong tài liệu, rất hữu ích để tra cứu những khái niệm, định nghĩa, công thức. [Ví dụ](#chimuc)
+
+
+<div class="alert tip" markdown="1">
+Những phần ở trên là những phần cơ bản trong một luận văn. Cách trình bày của mỗi phần tùy thuộc vào thẩm mỹ của mỗi tác giả, nhưng nói chung không dao động nhiều. 
+</div>
+
+Phần quan trọng nhất là phần **Nội dung chính**. Trong đó có rất nhiều vấn đề cần lưu ý và làm chủ để văn bản được thống nhất:
+
+- Cách căn lề văn bản, Đánh số trang
+- Cách phân cấp trong việc đánh số Chapter, Section, Subsection
+- Cách đánh số phương trình, bảng biểu, figures theo Chapter/Section,...
+- Cách chèn Figures, chèn sub-Figures, co dãn, caption
+- Cách căn lề Figures, chọn vị trí Figures
+- ...
 
 ---
 # Một số ví dụ
