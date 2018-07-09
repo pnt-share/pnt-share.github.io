@@ -7,7 +7,7 @@ tags:
 categories: [LaTeX]
 
 ---
-# Những phần cơ bản
+# Những phần cơ bản trong một luận văn
 
 - **Trang bìa:** Nên có bố cục cân đối và đơn giản. Nội dung gồm những thông tin sau
 	- Tên trường/cơ quan: có thêm logo càng đẹp
@@ -70,85 +70,85 @@ Sau đây là một số ví dụ cho từng phần của luận văn. Những v
 
 <a name="bia"/>
 ## Trang bìa
-![](/assets/img/luanvan/cover3.png)
-![](/assets/img/luanvan/cover5.png)
+![Mau bia luan van](/assets/img/luanvan/cover3.png)
+![Mau bia luan van](/assets/img/luanvan/cover5.png)
 
 ---
-![](/assets/img/luanvan/cover2.png)
-![](/assets/img/luanvan/cover4.png)
+![Mau bia luan van](/assets/img/luanvan/cover2.png)
+![Mau bia luan van](/assets/img/luanvan/cover4.png)
 
 ---
-![](/assets/img/luanvan/cover6.png)
-![](/assets/img/luanvan/cover7.png)
+![Mau bia luan van](/assets/img/luanvan/cover6.png)
+![Mau bia luan van](/assets/img/luanvan/cover7.png)
 
 ---
 <a name="tomtat"/>
 ## Abstract
-![](/assets/img/luanvan/abstract3.png)
-![](/assets/img/luanvan/abstract1.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/abstract3.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/abstract1.png)
 
 ---
-![](/assets/img/luanvan/abstract2.png)
-![](/assets/img/luanvan/abstract4.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/abstract2.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/abstract4.png)
 
 ---
 <a name="mucluc"/>
 ## Mục lục
-![](/assets/img/luanvan/mucluc1.png)
-![](/assets/img/luanvan/mucluc2.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/mucluc1.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/mucluc2.png)
 
 ---
-![](/assets/img/luanvan/mucluc3.png)
-![](/assets/img/luanvan/mucluc4.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/mucluc3.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/mucluc4.png)
 
 ---
 <a name="loicamon"/>
 ## Lời cảm ơn
-![](/assets/img/luanvan/loicamon1.png)
-![](/assets/img/luanvan/loicamon2.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/loicamon1.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/loicamon2.png)
 
 ---
-![](/assets/img/luanvan/loicamon3.png)
-![](/assets/img/luanvan/loicamon4.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/loicamon3.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/loicamon4.png)
 
 ---
 <a name="noidung"/>
 ## Nội dung chính
-![](/assets/img/luanvan/chuong1.png)
-![](/assets/img/luanvan/chuong2.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/chuong1.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/chuong2.png)
 
 ---
-![](/assets/img/luanvan/chuong3.png)
-![](/assets/img/luanvan/chuong5.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/chuong3.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/chuong5.png)
 
 ---
 <a name="phuluc"/>
 ## Phụ lục
-![](/assets/img/luanvan/phuluc1.png)
-![](/assets/img/luanvan/phuluc2.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/phuluc1.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/phuluc2.png)
 
 ---
 <a name="thamkhao"/>
 ## Tài liệu tham khảo
-![](/assets/img/luanvan/thamkhao2.png)
-![](/assets/img/luanvan/thamkhao3.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/thamkhao2.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/thamkhao3.png)
 
 ---
 <a name="trichdan"/>
 ## Tài liệu trích dẫn
-![](/assets/img/luanvan/trichdan1.png)
-![](/assets/img/luanvan/trichdan2.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/trichdan1.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/trichdan2.png)
 
 ---
 <a name="hinh"/>
 ## List of figures
-![](/assets/img/luanvan/hinh1.png)
-![](/assets/img/luanvan/hinh2.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/hinh1.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/hinh2.png)
 
 
 ---
 <a name="chimuc"/>
 ## Index
-![](/assets/img/luanvan/chimuc1.png)
-![](/assets/img/luanvan/chimuc2.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/chimuc1.png)
+![Nhung phan co ban cua luan van](/assets/img/luanvan/chimuc2.png)
 
