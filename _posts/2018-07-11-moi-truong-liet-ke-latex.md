@@ -3,7 +3,7 @@ layout: post
 title: Môi trường liệt kê và Môi trường nguyên văn 
 summary: Trong LaTeX, để hiển thị y nguyên một đoạn văn bản, ta dùng môi trường verbatim
 featured-img: wallpaper-uncharted-yoona-ps3-nature-1.jpg
-image: emile-perron-190221_md.jpg
+image: assets/img/posts/wallpaper-uncharted-yoona-ps3-nature-1.jpg_sm.jpg
 tags: 
 categories: [LaTeX]
 
