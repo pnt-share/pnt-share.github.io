@@ -287,19 +287,59 @@ pre{
     font:1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
     color:#25292e;
     word-wrap:normal;
-    background-color:#f6f8fa;
-    border:solid 1px #dce6f0;
+    background-color:#b4ddff;;
+    border:solid 1px #6eb6ff;
     border-radius:0.3rem
+}
+.highlight ::-webkit-scrollbar{
+      height: 0.4em;
+}
+.highlight ::-webkit-scrollbar-thumb:hover {
+    background: #2682e0; 
+}
+.highlight ::-webkit-scrollbar-thumb {
+    background: #8fc3f9;
+    border-radius: 5px
+}
+.highlight ::-webkit-scrollbar-track {
+    background: #dcefff; 
+}
+.highlight ::-moz-scrollbar{
+      height: 0.4em;
+}
+.highlight ::-moz-scrollbar-thumb:hover {
+    background: #2682e0; 
+}
+.highlight ::-moz-scrollbar-thumb {
+    background: #8fc3f9;
+    border-radius: 5px
+}
+.highlight ::-moz-scrollbar-track {
+    background: #dcefff; 
+}
+.highlight ::-o-scrollbar{
+      height: 0.4em;
+}
+.highlight ::-o-scrollbar-thumb:hover {
+    background: #2682e0; 
+}
+.highlight ::-o-scrollbar-thumb {
+    background: #8fc3f9;
+    border-radius: 5px
+}
+.highlight ::-o-scrollbar-track {
+    background: #dcefff; 
 }
 pre>code{
     padding:0;
     margin:0;
     font-size:0.9rem;
-    color:#25292e;
+    color:#000000;
     word-break:normal;
     white-space:pre;
     background:transparent;
-    border:0
+    border:0;
+    font-family: monospace;
 }
 .blur{
     background:#fff;
@@ -439,7 +479,7 @@ pre>code{
     background:rgba(255,255,255,0)
 }
 .header__link{
-    color:#343851;
+    color:#333333;
     padding:.938rem 0;
     border-top:1px solid #ededed
 }
@@ -1129,9 +1169,9 @@ table th,table td{
 .highlight .w{
     color:#bbbbbb
 }
-.highlight{
-    background-color:#f8f8f8
-}
+/*.highlight{
+    background-color:#bbbbbb
+Ư*/
 .hero{
     margin:3.75rem auto 0;
     min-height:16.25rem;
@@ -1203,7 +1243,7 @@ table th,table td{
 }
 .hero__wrap .hero__title{
     font-size:1.5em;
-    color:#133237
+    color:#000000
 }
 h1.hero__title {
     font-weight: 200;
