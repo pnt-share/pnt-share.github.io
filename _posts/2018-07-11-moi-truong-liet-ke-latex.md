@@ -48,7 +48,8 @@ Có 3 kiểu liệt kê trong LaTeX:
 
 #### Giải thích
 
-- Để đưa caption lên trên bảng, ta nhúng **tabular** vào trong **table**. 
+- Để đưa caption lên trên bảng, ta nhúng **tabular** vào trong **table**.
+- Để sử dụng môi trường **description** trong môi trường **tabular**, ta phải bao bọc **description** bởi môi trường **minipage**.
 - Lệnh `\textwidth` trả về gía trị chiều ngang của phần nội dung.
 - Lệnh `[!h]` làm cho bảng phải hiển thị đúng vị trí hiện tại trong văn bản. Nếu không có lệnh này, bảng có thể *bay* lên trên hoặc xuống dưới
 
