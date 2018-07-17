@@ -8,7 +8,7 @@ tags:
 categories: [LaTeX]
 
 ---
-# Thêm đường cong có mũi dấu mũi tên
+# Thêm đường cong có dấu mũi tên
 
 Mặc dù không thích mấy cái tọa độ lộn xộn của thằng Geobra, nhưng vì lười vẽ lại nên dùng code của chú. Chỉ thêm cái đường cong thôi.
 
