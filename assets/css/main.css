@@ -186,6 +186,7 @@ body{
     -ms-flex:1;
     flex:1;
     background-color: #ececec;
+    background-image: url(/assets/img/icons/groovepaper.png);
 }
 .post_container .container{
     box-shadow: 0 1px 5px 0 rgba(0,0,0,.1);
@@ -194,6 +195,7 @@ body{
 }
 .post_container{
     background-color: #ececec;
+    background-image: url(/assets/img/icons/groovepaper.png);
 }
 img{
     max-width:100%;
@@ -387,8 +389,10 @@ pre>code{
 }
 @media (min-width: 75em){
     .container{
-        /*max-width:1170px;*/
         margin:0 auto
+    }
+    .blog .container{
+        max-width:1170px;
     }
 }
 .header{
@@ -1221,7 +1225,6 @@ table th,table td{
 }
 .hero__wrap{
     position:absolute;
-    top:50%;
     left:50%;
     -webkit-transform:translate(-50%, -50%);
     transform:translate(-50%, -50%);
@@ -1232,6 +1235,14 @@ table th,table td{
     z-index:1;
     background-color: rgba(255, 255, 255, 0.4);
     padding: 2em 0 1em 0;
+}
+.site_post .hero__wrap{
+    bottom: 0;
+    -webkit-transform:translate(-50%, 0%);
+    transform:translate(-50%, 0%);
+}
+.site_home .hero__wrap{
+    top: 50%;
 }
 .site_post .hero__wrap{
     border: solid 6px rgba(255,255,255,0.5);
@@ -1278,6 +1289,7 @@ span.post-categories {
 }
 .blog{
     background-color:#ececec
+    background-image: url(/assets/img/icons/groovepaper.png);
 }
 .post-list{
     padding-top:2.5em;
