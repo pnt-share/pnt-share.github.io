@@ -2,8 +2,8 @@
 layout: post
 title: Những phần cơ bản trong một luận văn
 summary: Tài liệu khoa học, đặc biệt là luận văn (thesis), bài báo (paper), sách (book),... cần tuân theo một số quy ước nhất định. 
-featured-img: emile-perron-190221
-image: emile-perron-190221_md.jpg
+featured-img: nhat-thien.jpg
+image: nhat-thien.jpg_md.jpg
 tags: 
 categories: [LaTeX]
 
