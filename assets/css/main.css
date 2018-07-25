@@ -400,7 +400,7 @@ pre>code{
         margin:0 auto;
         max-width:1170px;
     }
-    .site_post .container{
+    .site_post .site__content .container{
         max-width:960px;
     }
     .header__links{
