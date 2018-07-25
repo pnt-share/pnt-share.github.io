@@ -191,11 +191,12 @@ body{
 .post_container .container{
     box-shadow: 1px 1px 10px 0 rgba(0,0,0,.3);
     margin-bottom: 8em;
-    background-color: #0000001f;
+    background-color: #ffffffb8;
     border: solid 1px #0000001f;
     border-top:none;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
+    position: relative;
 }
 .post_container{
     /*background-color: #fff;
@@ -221,7 +222,7 @@ body{
     font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size:1rem;
     line-height:1.5;
-    color:#343851;
+    color:#252525;
     -webkit-font-smoothing:antialiased;
     -webkit-text-size-adjust:100%
 }
@@ -705,7 +706,7 @@ button:disabled:hover,button:disabled :focus{
     min-height:250px;
     border-radius:8px;
     overflow:hidden;
-    background-color:#fff0;
+    background-color:#ffffffb8;
     -webkit-box-shadow:3px 3px 20px 3px rgba(0,0,0,0.2);
     box-shadow:3px 3px 20px 3px rgba(0,0,0,0.2);
     margin-bottom:5.26316%;
@@ -714,6 +715,7 @@ button:disabled:hover,button:disabled :focus{
     transition:-webkit-box-shadow .25s ease;
     transition:box-shadow .25s ease;
     transition:box-shadow .25s ease, -webkit-box-shadow .25s ease;
+    position: relative;
 }
 .post-card img{
     transition: transform .3s;
@@ -1255,6 +1257,15 @@ table th,table td{
     border-bottom: none;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
+}
+.background_blur{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url("/assets/img/background/3.png");
+    filter: blur(3px);
 }
 .site_home .hero__wrap{
     top: 50%;
