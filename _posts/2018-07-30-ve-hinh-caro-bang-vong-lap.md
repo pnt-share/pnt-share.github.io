@@ -3,7 +3,7 @@ layout: post
 title: Tikz - Vẽ một hình caro đơn giản bằng vòng lặp
 summary: Bài viết này hướng dẫn sử dụng vòng lặp trong Tikz. Áp dụng để vẽ một hình ca rô đơn giản.
 featured-img: yuri1.jpg
-image: yuri1.jpg_md.jpg
+image: assets/img/posts/yuri1.jpg_md.jpg
 tags: Tikz
 categories: [LaTeX]
 
