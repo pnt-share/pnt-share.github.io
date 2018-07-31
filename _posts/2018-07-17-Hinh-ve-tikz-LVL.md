@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hình Tikz cho luận văn 
+title: Tikz - Vẽ hình tam giác cho luận văn 
 summary: Hình tam giác cho luận văn của LVL
 featured-img: TEXmath-Tinh-cach-ca-nhan-quyet-dinh-ban-kiem-duoc-bao-nhieu-tien.jpg
 image: assets/img/posts/TEXmath-Tinh-cach-ca-nhan-quyet-dinh-ban-kiem-duoc-bao-nhieu-tien.jpg_sm.jpg
