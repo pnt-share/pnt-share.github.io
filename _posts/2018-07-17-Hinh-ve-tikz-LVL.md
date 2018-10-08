@@ -10,7 +10,7 @@ categories: [LaTeX]
 ---
 # Thêm đường cong có dấu mũi tên
 
-Mặc dù không thích mấy cái tọa độ lộn xộn của thằng Geobra, nhưng vì lười vẽ lại nên dùng code của chú. Chỉ thêm cái đường cong thôi.
+Mặc dù không thích mấy cái tọa độ lộn xộn của Geobra, nhưng vì lười vẽ lại nên dùng code của chú. Chỉ thêm cái đường cong thôi.
 
 <div align="center" markdown="1">
 ![Hinh Tikz](/assets/img/luanvan/hinhtikz1.png)
